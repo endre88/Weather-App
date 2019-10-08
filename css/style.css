@@ -26,19 +26,19 @@ h1{
 }
 
 #header{         
-   height:5%;
+   height:5vh;
    background-color: darkgoldenrod;
         }
 #mapdiv{
-      height:90%;
+      height:85vh;
       background-color: salmon;
         }
 #side_panel {
-      height:90%;
+      height:85vh;
       padding:3%;
       background-color: #113322;
         }
 #footer {
-      height:5%;
+      height:10vh;
       background-color: darkgrey;
         }
